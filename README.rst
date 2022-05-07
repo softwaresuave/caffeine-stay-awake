@@ -111,21 +111,7 @@ Gentoo users may find `caffeine-ng <https://github.com/PF4Public/gentoo-overlay/
 License
 -------
 
-Copyright (C) 2009 The Caffeine Developers
-Copyright (C) 2014-2018 Hugo Osvaldo Barrera <hugo@barrera.io>
-
-Caffeine-ng is distributed under the GNU General Public License, either version
-3, or (at your option) any later version. See LICENCE for details.
-
-The Caffeine-ng status icons are Copyright (C) 2014 mildmojo
-(http://github.com/mildmojo), and distributed under the terms of the GNU Lesser
-General Public License, either version 3, or (at your option) any later
-version.  See LGPL.
-
-The Caffeien-ng SVG shortcut icons are Copyright (C) 2009 Tommy Brunn
-(http://www.blastfromthepast.se/blabbermouth), and distributed under the
-terms of the GNU Lesser General Public License, either version 3, or (at
-your option) any later version. See LGPL.
+not responsible for shit 
 
 Hacking
 -------
