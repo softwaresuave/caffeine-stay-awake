@@ -18,10 +18,7 @@ screensaver from showing up, or the system from going to sleep.
 It does so when an application is fullscreened (eg: youtube), or when you click
 on the systray icon (which you can do, when, eg: reading).
 
-This is a fork of `Caffeine 2.4`_, since later
-versions dropped support for the systray icon in favour of only automatic
-detection of fullscreen apps only, which turned to be a rather
-`controversial`_ decision.
+This is a fork 
 
 The intention of this fork is to also evolve on its own, not only fixing
 issues, but also implemented missing features, when relevant.
